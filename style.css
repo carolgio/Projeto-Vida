@@ -1,11 +1,11 @@
 @import url(https://fonts.google.com/share?selection.family=Fredoka:wght@300..700);
 /*DECLARANDO VARIÁVEIS*/
 ;root{
-    --cor-de-fundo: #273c75;
-    --verde: #028afa;
+    --cor-de-fundo: hsl(313, 97%, 55%);
+    --verde: #ff3ce5cb;
     --branco: #ffffff;
-    --botao-ativo: #1d13ac;
-    --botao-inativo: rgba(6, 30, 109, 0.774);
+    --botao-ativo: #aa157df6;
+    --botao-inativo: rgba(223, 25, 180, 0.774);
     --texto-fundo: rgb(2, 2, 2);
 }
 /**/
