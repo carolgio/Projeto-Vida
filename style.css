@@ -1,7 +1,7 @@
 @import url(https://fonts.google.com/share?selection.family=Fredoka:wght@300..700);
 /*DECLARANDO VARIÁVEIS*/
 :root{
-    --cor-de-fundo: hsl(313, 97%, 55%);
+    --cor-de-fundo: hsla(313, 85%, 44%, 0.781);
     --verde: #ff3ce5cb;
     --branco: #ffffff;
     --botao-ativo: #aa157df6;
